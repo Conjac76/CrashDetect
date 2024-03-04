@@ -1,5 +1,7 @@
 Gyroscopic Incident Detection System
+
 Introduction
+
 This project is a Gyroscopic Incident Detection System designed to detect incidents such as falls 
 or sudden movements using an MPU6050 accelerometer and gyroscope module. The system utilizes an Arduino 
 microcontroller to process sensor data and trigger alerts in case of an incident.
